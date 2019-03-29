@@ -1,3 +1,3 @@
 # Pathfinder
 
-Implementation of Dijkstra and A* shortest path algorithms created for the 2nd year AI module of the Games Computing BSc.
+Simple implementation of Dijkstra and A* shortest path algorithms using th XNA framework.
